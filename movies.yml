@@ -1,5 +1,5 @@
 movie:
-  directory: /tmp/movies
+  directory: C:\\tmp\\movies
   file-pattern: "*.txt"
   prevent-duplicates: true
   fixed-delay: 5000
