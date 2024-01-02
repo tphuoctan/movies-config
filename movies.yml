@@ -8,3 +8,9 @@ movie:
       com:
         apress:
           cloud: DEBUG
+
+eureka:
+  client:
+    register-with-eureka: false
+    service-url:
+      default-zone: http://localhost:8761/eureka/
